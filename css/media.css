@@ -1,0 +1,40 @@
+@media (max-width: 1200px) {
+    .container{
+        padding: 0 15px;
+    }
+    .hero-title{
+        font-size: 65px;
+    }
+}
+
+@media (max-width: 972px) {
+    .container{
+        padding: 0 15px;
+    }
+    .hero-title{
+        font-size: 57px;
+    }
+    .hero-desc{
+font-size: 22px;
+    }
+}
+
+@media (max-width: 768px) {
+    .container{
+        padding: 0 15px;
+    }
+    .hero-title{
+    }
+    .hero-desc{
+    }
+}
+
+@media (max-width: 540px) {
+    .container{
+        padding: 0 15px;
+    }
+    .hero-title{
+    }
+    .hero-desc{
+    }
+}
